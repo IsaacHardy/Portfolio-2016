@@ -335,7 +335,6 @@ a.hs-totop-link {
     z-index: 999;
     color: #788195;
     width: 310px;
-    left: 50px;
     top: 0px;
     height: 100%;
     background: #2b303b;
@@ -514,6 +513,10 @@ a.hs-totop-link {
     width: 100%;
 }
 
+.aside1 .fa {
+    margin-right: 5px;
+}
+
 .aside1 .aside-content {
         /* width: 500px; */
     /* height: 50px; */
@@ -538,6 +541,7 @@ a.hs-totop-link {
     text-align: center;
     background: rgba(33, 37, 45, 0.73);
     margin-bottom: 8px;
+    margin-left: 6px;
     font-size: 17px;
     cursor: pointer;
     -webkit-transition: all .3s ease-in;
@@ -550,18 +554,20 @@ a.hs-totop-link {
     color: rgba(33, 37, 45, 0.73);
 }
 
+
+
 .aside1 .aside-content .part1 {
     font-family: Titillium Web;
     margin-right: 7px;
     font-size: 19px;
     text-transform: uppercase;
     font-weight: 600;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
 }
 
 .aside1 .aside-content .part2 {
     font-weight: 300;
-    letter-spacing: 2px;
+    letter-spacing: 6px;
     color: #788195;
     font-size: 14px;
 }
@@ -690,7 +696,7 @@ a.hs-totop-link {
 }
 
 #header a:hover {
-    color: #707B8B;
+    color: #fff;
 }
 
 #my-link {
@@ -4031,6 +4037,7 @@ input[type="search"]:focus {
 .jspContainer {
     overflow: hidden;
     position: relative;
+    left: 22px;
 }
 
 .jspPane {
@@ -5082,6 +5089,7 @@ span.wpcf7-not-valid-tip {
     }
     #my-panel .jspContainer {
         overflow: visible;
+        left: 0px;
     }
     #my-panel a {
         display: block;
