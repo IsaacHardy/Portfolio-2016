@@ -1,0 +1,1 @@
+XW<?php exit; ?>a:1:{s:7:"content";a:1:{s:5:"pulse";s:7:"/themes";}}
