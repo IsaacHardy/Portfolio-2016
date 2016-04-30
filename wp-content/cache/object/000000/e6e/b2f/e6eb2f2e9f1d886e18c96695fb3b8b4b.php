@@ -1,4 +1,4 @@
-™SW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:12;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-09 12:26:11";s:13:"post_date_gmt";s:19:"2016-04-09 12:26:11";s:12:"post_content";s:2993:"<span class="content-title">PERSONAL DETAILS</span>
+ç#W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:12;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-09 12:26:11";s:13:"post_date_gmt";s:19:"2016-04-09 12:26:11";s:12:"post_content";s:2993:"<span class="content-title">PERSONAL DETAILS</span>
 <ul class="nav nav-tabs nav-tabs-left nav-centered" role="tablist">
 <li role="presentation" class="active">
 <a href="#BIO" data-toggle="tab" role="tab">

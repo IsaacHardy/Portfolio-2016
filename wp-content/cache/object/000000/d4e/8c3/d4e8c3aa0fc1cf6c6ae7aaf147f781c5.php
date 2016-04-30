@@ -1,4 +1,4 @@
-™SW<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:42;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-09 15:19:55";s:13:"post_date_gmt";s:19:"2016-04-09 15:19:55";s:12:"post_content";s:1558:"<span class="content-title">PROGRAMMING SKIILLS</span>
+ç#W<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:42;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-04-09 15:19:55";s:13:"post_date_gmt";s:19:"2016-04-09 15:19:55";s:12:"post_content";s:1558:"<span class="content-title">PROGRAMMING SKIILLS</span>
 <span class="skilltitle">web development &gt; </span>
 <span class="skill-description"></span>
 <span class="skill-detail"><i class="fa fa-bar-chart"></i>LEVEL : MORE COMPETENT</span>

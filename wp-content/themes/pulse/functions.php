@@ -350,6 +350,9 @@ background: ' . $maincolor . ';
 .aside1 a:hover {
     background: ' . $maincolor . ';
 }
+.post-wrapper a {
+    color: ' . $maincolor . ';
+}
 .aside1 .aside-content .part1 {
     color: ' . $maincolor . ';
 }

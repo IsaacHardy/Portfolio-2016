@@ -26,7 +26,7 @@ get_header();
                 ?>
                     
                 <?php if (!null == ot_get_option( 'cv_attachment_id' )) { ?>
-                    <a class="download-button" href="<?php echo esc_url(ot_get_option( 'cv_attachment_id' )) ; ?>"><i class="fa fa-cloud-download"></i>Resume</a>
+                    <a class="download-button" href="<?php echo esc_url(ot_get_option( 'cv_attachment_id' )) ; ?>"><i class="fa fa-cloud-download"></i>PDF</a>
                 <?php } ?>
                 <div class="aside-content"><span class="part1"><?php echo ot_get_option( 'sidebar_text1' ); ?></span><span class="part2"><?php echo ot_get_option( 'sidebar_text2' ); ?></span>
                 </div>
